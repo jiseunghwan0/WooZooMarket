@@ -1,3 +1,7 @@
+# Jiseunghwan Team project 1 
+# My Section : Manager Page , Error Page 
+
+
 # WooZooMarket
 # Used Product Market 
 
