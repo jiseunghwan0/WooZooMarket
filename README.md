@@ -1,5 +1,5 @@
 # Jiseunghwan Team project 1 
-# My Section : Manager Page , Error Page 
+# My Section : Manager Page , Error Page , Interceptor
 
 
 # WooZooMarket
