@@ -2,10 +2,9 @@
 # My Section : Manager Page , Error Page , Interceptor
 
 
-# WooZooMarket
+# Project Name : WooZooMarket
+
 # Used Product Market 
-
-
 # use DataBases : My-Sql
 # use Languague : Java, JavaScript
 # use FrameWork : Spring FrameWork , Mybatis FrameWork , Hybernate FrameWork
